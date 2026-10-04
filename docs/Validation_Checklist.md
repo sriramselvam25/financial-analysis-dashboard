@@ -1,0 +1,14 @@
+# Validation Checklist
+- [x] Synthetic-data disclosure
+- [x] Deterministic generator
+- [x] SQL schema
+- [x] Power Query financial transformations
+- [x] Star-schema documentation
+- [x] DAX financial KPI library
+- [x] Four-page report specification
+- [x] Interactive behavior specification
+- [x] Theme JSON
+- [x] Insights/recommendations
+- [x] Interview walkthrough
+- [ ] Open in Power BI Desktop and visually QA rendering
+- [ ] Save proprietary PBIX in Power BI Desktop if required
